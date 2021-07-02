@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading, playing games and learning 
 - 🌱 I’m currently learning android app development
 - 💞️ I’m looking to collaborate on ......
-- 📫 How to reach me :
+- 📫 How to reach me:
                       Insta - @aakashic.records
                       Mail - aakash.baghel15@gmail.com
 

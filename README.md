@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <br />
+<br />
 
 ### 🚀 Languages and Tools:
 
@@ -28,8 +29,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br />
-<br />
-  
+<br /> 
+<br /> 
+
   
 ## Connect with me:
 <p align="left">
@@ -41,3 +43,5 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<br /> 
+<br /> 

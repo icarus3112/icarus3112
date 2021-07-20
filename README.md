@@ -15,10 +15,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Languages and Tools:
 <p align="left">
-<img alt="Dart" src="https://img.icons8.com/color/50/000000/dart.png" />
-<img alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png" />
-<a> <img alt="Visual Studio Code" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png" /> </a>
-<a> <img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
+  
+<a><img alt="Dart" src="https://img.icons8.com/color/50/000000/dart.png" /></a>
+<a><img alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
+<a><img alt="Visual Studio Code" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png" /></a>
+<a><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" /></a>
 <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v2.png" />
 <img alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
@@ -30,9 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br /> 
-<br /> 
 
-  
 ## Connect with me:
 <p align="left">
 

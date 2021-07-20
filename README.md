@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png" />
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<img align="left" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/50/000000/javascript--v2.png" />
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
-<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/50/000000/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/50/000000/github--v1.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/50/000000/run-command.png" />
+<img align="left" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v2.png" />
+<img align="left" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
+<img align="left" alt="Git" src="https://img.icons8.com/color/50/000000/git.png" />
+<img align="left" alt="GitHub" src="https://img.icons8.com/color/50/000000/github--v1.png" />
+<img align="left" alt="Terminal" src="https://img.icons8.com/color/50/000000/run-command.png" />
 
 
 <br />

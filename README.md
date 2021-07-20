@@ -55,9 +55,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/50/000000/flutter.png"/> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <img align="left" alt="Flutter" src="https://img.icons8.com/color/50/000000/flutter.png" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+    <img src="https://img.icons8.com/color/50/000000/flutter.png" />
 </p>

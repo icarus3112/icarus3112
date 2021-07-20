@@ -14,15 +14,18 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png" />
-<img align="left" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" />
+<p>
+<img align="left" alt="Dart" src="https://img.icons8.com/color/50/000000/dart.png" />
+<img align="left" alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<a> <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png" /> </a>
+<a> <img align="left" alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>
 <img align="left" alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/50/000000/javascript--v2.png" />
 <img align="left" alt="MySQL" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" />
 <img align="left" alt="Git" src="https://img.icons8.com/color/50/000000/git.png" />
 <img align="left" alt="GitHub" src="https://img.icons8.com/color/50/000000/github--v1.png" />
 <img align="left" alt="Terminal" src="https://img.icons8.com/color/50/000000/run-command.png" />
-
+</p>
 
 <br />
 <br />

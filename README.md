@@ -59,4 +59,5 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://icons8.com/icon/7I3BjCqe9rjG/flutter">Flutter icon by Icons8</a>
 </p>

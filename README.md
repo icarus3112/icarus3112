@@ -16,15 +16,15 @@ You can click the Preview link to take a look at your changes.
 ### 🚀 Languages and Tools:
 
 [![](https://img.icons8.com/color/50/000000/dart.png)](#)
-![Dart Logo](https://img.icons8.com/color/48/000000/flutter.png)
-![Dart Logo](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
-![Dart Logo](https://img.icons8.com/color/48/000000/html-5.png)
-![Dart Logo](https://img.icons8.com/color/48/000000/css3.png)
-![Dart Logo](https://img.icons8.com/color/50/000000/javascript--v2.png)
-![Dart Logo](https://img.icons8.com/fluent/50/000000/mysql-logo.png)
-![Dart Logo](https://img.icons8.com/color/50/000000/git.png)
-![Dart Logo](https://img.icons8.com/color/50/000000/github--v1.png)
-![Dart Logo](https://img.icons8.com/color/50/000000/run-command.png)
+[![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](#)
+[![Visual Studio Code](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)](#)]
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](#)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](#)
+[![Javascript](https://img.icons8.com/color/50/000000/javascript--v2.png)](#)
+[![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)](#)
+[![GIT](https://img.icons8.com/color/50/000000/git.png)](#)
+[![Github](https://img.icons8.com/color/50/000000/github--v1.png)](#)
+[![Command Line](https://img.icons8.com/color/50/000000/run-command.png)](#)
  
 <br />
 <br /> 

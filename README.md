@@ -1,4 +1,4 @@
-## 🙋‍♂️ About Me
+## 👨🏽‍💻 About Me
 
 - 🌱 I’m currently learning **Android App Developement**
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br /> 
 
-## [![Connect with me:](https://img.icons8.com/color-glass/48/000000/share-2.png)](#)
+## 📱 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/aakashdeep-singh-baghel-664b531a7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

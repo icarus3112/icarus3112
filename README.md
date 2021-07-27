@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### 🚀 Languages and Tools:
-<p align="left">
 
 ![Dart Logo](https://img.icons8.com/color/50/000000/dart.png)
   

@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Languages and Tools:
 
-![Dart Logo](https://img.icons8.com/color/50/000000/dart.png "Dart")
+[![](https://img.icons8.com/color/50/000000/dart.png)](#)
 ![Dart Logo](https://img.icons8.com/color/48/000000/flutter.png)
 ![Dart Logo](https://img.icons8.com/fluent/50/000000/visual-studio-code-2019.png)
 ![Dart Logo](https://img.icons8.com/color/48/000000/html-5.png)

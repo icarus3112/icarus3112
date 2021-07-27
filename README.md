@@ -10,8 +10,6 @@
 icarus3112/icarus3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<br />
 <br />
 
 ### 🚀 Languages and Tools:
@@ -28,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 [![Command Line](https://img.icons8.com/color/50/000000/run-command.png)](#)
  
 <br />
-<br /> 
 
 ## 📱 Connect with me:
 <p align="left">
@@ -36,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 <a href = "https://www.linkedin.com/in/aakashdeep-singh-baghel-664b531a7/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/aakashic.records/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
 
 </p>
 

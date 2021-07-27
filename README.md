@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 🚀 Languages and Tools:
 <p align="left">
+
+![Dart Logo](https://img.icons8.com/color/50/000000/dart.png)
   
 <a><img alt="Dart" src="https://img.icons8.com/color/50/000000/dart.png" /></a>
 <a><img alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png" /></a>

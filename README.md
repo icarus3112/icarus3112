@@ -37,4 +37,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br /> 
+[![Spotify](https://github-readme-pi.vercel.app.app/api/spotify)](https://open.spotify.com/user/pwtah4aae7mq0i1nvcxugvcg2)
 <br /> 

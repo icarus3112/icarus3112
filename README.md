@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently School Teacher.
 
-- 👯 I’m Earning in Lacks.
+- 👯 I’m learning and earning.
 
 - 📫 How to reach me **aakash.baghel15@gmail.com**
                       

@@ -1,8 +1,8 @@
 ## 👨🏽‍💻 About Me
 
-- 🌱 I’m currently Sarkari School Teacher.
+- 🌱 I’m currently learning **Android App Developement**
 
-- 👯 I’m Earning in Lacks.
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 📫 How to reach me **aakash.baghel15@gmail.com**
                       

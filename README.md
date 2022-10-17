@@ -6,10 +6,7 @@
 
 - 📫 How to reach me **aakash.baghel15@gmail.com**
                       
-<!---
-icarus3112/icarus3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <br />
 
 ### 🚀 Languages and Tools:

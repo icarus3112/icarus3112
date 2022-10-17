@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 About Me
 
-- 🌱 I’m currently Sarkari School Teacher.
+- 🌱 I’m currently School Teacher.
 
 - 👯 I’m Earning in Lacks.
 
